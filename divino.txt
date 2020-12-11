@@ -1,0 +1,12 @@
+  
+botões de categorias:
+element :selectorPorClasse, '.col s19 menu_category_div'
+
+(box do produto):
+element :selectorPorClasse, '.col s80 conteudo_princ_content'
+
+Ícone de lupa da busca:
+element :selectorPorClasse, '.icon-lupa'
+
+'ir para o carrinho':
+element :selectorPorClasse, '.cart_lsc floatright js_cart_btn'

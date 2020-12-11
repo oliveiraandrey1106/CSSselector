@@ -1,0 +1,9 @@
+Botão de Login:
+element :selectorPorClasse, '#a-buttonLogin'
+
+Botão de Cadastro:
+element :selectorPorClasse, '#a-clickLogin'
+
+Carrinho:
+element :selectorPorClasse, '#a-linkCart'
+

@@ -1,0 +1,11 @@
+Botão de fechar da modal de promoção:
+
+element :selectorPorClasse, '.btn btn-floating pull-right'
+
+Input de busca:
+
+element :selectorPorClasse, '.text-input js-search-input'
+
+Botão 'Quem Somos':
+
+element :selectorPorElementosAtibutoeValor, 'a[href*="quem-somos"]'
